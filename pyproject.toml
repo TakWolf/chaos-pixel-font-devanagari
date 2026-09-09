@@ -1,0 +1,6 @@
+[project]
+name = "chaos-pixel-font-devanagari"
+version = "0.0.0"
+requires-python = ">=3.14"
+
+dependencies = []
